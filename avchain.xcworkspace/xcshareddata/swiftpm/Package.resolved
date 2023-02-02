@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "swiftui-date-picker-dialog",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/globulus/swiftui-date-picker-dialog",
+      "state" : {
+        "revision" : "71fd42d30b6659dc66574db068ade4fefd4ced4e",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "swiftui-generic-dialog",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/globulus/swiftui-generic-dialog",
+      "state" : {
+        "revision" : "e7f1a107014c3767c4220f9cae1e57d5c9f8fa8b",
+        "version" : "1.0.1"
+      }
+    }
+  ],
+  "version" : 2
+}
